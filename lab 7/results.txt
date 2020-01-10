@@ -1,0 +1,11 @@
+java
+ArbitrousPhilosopher 148ms 161ms 134ms
+AsymetricPhilosopher 43ms 56ms 28ms
+StarvingPhilosopher 85ms 93ms 82ms
+NaivePhilosopher 94ms 102ms 90ms / or crashing
+
+scala
+NaivePhilosopher 80ms 86ms 79ms / or crashing
+AsymetricPhilosopher 46ms 52ms 32ms
+class StarvingPhilosopher 89ms 96ms 87ms
+ArbitrousPhilosopher 146ms 155ms 134ms
